@@ -1,6 +1,6 @@
 # Projekt: lista TODO
 
-- [ ] Zadanie 1: setup projektu
+- [ ] Zadanie 1: setup projektu (zrobione przez kolegę)
 - [ ] Zadanie 2: napisz README
 - [ ] Zadanie 3: dodaj testy
 - [ ] Zadanie 4: wdróż
